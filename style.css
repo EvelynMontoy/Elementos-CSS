@@ -1,0 +1,32 @@
+h2 {
+    background-color: rgb(169,211,78)
+}
+
+h1{
+    color: #ff0aff;
+    font-family: 'Modak', cursive;
+    text-align:center;
+}
+
+p{
+    color: green;
+    font-family: arial;
+}
+p, li{
+    font-size: 16px
+}
+.special{
+    color: blue
+}
+a:visited{
+    color: yellow
+}
+
+a:hover{
+    color: rebeccapurple
+}
+
+a {
+    text-decoration: none
+
+}
