@@ -38,9 +38,11 @@ a {
 
 }
 table{
-    width: 350px;
-    height: 80px;
-    table-layout: auto;
+    background-color: #1d4dad;
+    width: 450px;
+    height: 100px;
+    font-size: 30px;
+  
 }
 
 .nuevoo{
@@ -53,5 +55,5 @@ table{
 
 .hspecial{
     margin: 30px;
-    
+
 }
